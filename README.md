@@ -1,2 +1,2 @@
 # testing-superproductivity
-Testing integratino with superproductivity
+Testing integration with superproductivity
